@@ -13,5 +13,9 @@ The concrete explainations of the repository as follow:
 
 - `./answer`: contains the problem solutions to the seven Edition textbook
 - `./notes`: contains some useful notes when I learn the course.
-- 
+- `./exams`: contains the only one examination of the final
+- `./slides:`: contains the related slides during the course
+- `./Program Assignment`: contains the PA corresponding to the textbook(Eight Edition)
+- `./Wireshark experiment`: contains the wrieshark experiment corresponding to the textbook (Eight Edition)
 
+**Hint**: If you think my work is elegant and useful why not give a star:star:
