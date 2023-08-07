@@ -9,9 +9,9 @@ mailServer = 'smtp.gmail.com'
 
 # Create socket called clientSocket and establish a TCP connection with mailserver
 clientSocket = socket(AF_INET, SOCK_STREAM)
-
 # Port number may change according to the mail server
 clientSocket.connect((mailServer,587))
+
 recv = clientSocket.recv(1024).decode()
 print(recv)
 
@@ -70,6 +70,3 @@ recv6 = clientSocket.recv(1024).decode()
 print(recv6)
 if recv6[:3] != '221':
 	print('221 reply not received from server.')
-
-
-
