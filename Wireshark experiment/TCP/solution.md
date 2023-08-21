@@ -82,3 +82,11 @@ From the above figure, focus on the **Win** flag, we can find the minimum amount
 ![](imgs/img8.png)
 
 From the above figure, we can show the sequence number of each TCP segment sended with the time flows, we can find that in the green line, all the sequence number is going on without decreasing, which means there exists no retransmission during the TCP segment tranmistting.
+
+#### Q11
+
+#### Q12
+
+#### Q13
+
+#### Q14

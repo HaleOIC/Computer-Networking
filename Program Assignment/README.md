@@ -1,9 +1,9 @@
 # Program Assignment List
 
 - [x] ICMP ping
-- [ ] proxyServer
-- [ ] SMTP
-- [ ] Traceroute
-- [ ] UDPping
-- [ ] VideoStreaming
-- [ ] WebServer
+- [x] proxyServer
+- [x] SMTP
+- [x] Traceroute
+- [x] UDPping
+- [x] VideoStreaming
+- [x] WebServer
